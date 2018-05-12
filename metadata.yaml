@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33100
     wikipedia: http://en.wikipedia.org/wiki/Bryce_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40969#The-Mating-of-the-Moons
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2012-10-07'
 gutenberg_type: Text
